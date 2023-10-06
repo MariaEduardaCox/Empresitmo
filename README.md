@@ -4,14 +4,15 @@ O projeto possui a finalidade de treinar o uso de interface e outros paradigmas 
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos.
+Java 
+
+Intellij
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Intellij
+IDE de preferência
 
 ▶️**Instalação**
 
